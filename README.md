@@ -7,3 +7,5 @@
 Цей текст додано з гілки feature_student8!
 
 Цей текст додано за допомогою функції merge pull request!
+
+Цей текст додано з гілки feature_student8_newfeature, версії v1.8
